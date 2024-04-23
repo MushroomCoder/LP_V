@@ -1,0 +1,3 @@
+1]. !pip install git+https://github.com/afnan47/cuda.git
+
+2]. On a new cell run %load_ext nvcc_plugin
